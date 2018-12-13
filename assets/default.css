@@ -1,0 +1,23 @@
+.section-header {
+  margin: 5px 0 5px;
+  text-transform: uppercase;
+  border-bottom: 1px solid #ccc;
+}
+
+.section-details .title {
+  font-weight: bold;
+}
+
+.section-details .years {
+  text-align: right;
+}
+
+.section-details .company {
+  font-style: italic;
+}
+
+h1 {
+  font-size: 2.0em;
+  margin-top: 0.2em;
+  margin-bottom: 0.1em;
+}
