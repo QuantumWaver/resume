@@ -29,6 +29,12 @@
   font-size: 1.1em;
 }
 
+.school-location {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 1.0em;
+}
+
 .description {
   font-style: normal;
 }
