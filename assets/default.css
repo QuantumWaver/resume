@@ -9,12 +9,48 @@
 }
 
 .section-details .years {
+  margin-top: 0.1em;
   text-align: right;
 }
 
-.section-details .company {
+.company-years {
+  text-align: right;
+  font-size: 1.1em;
+}
+
+.section-details {
+  font-style: italic;
+  margin-bottom: 1.6em;
+}
+
+.company {
+  font-weight: bold;
+  font-style: normal;
+  font-size: 1.1em;
+}
+
+.description {
+  font-style: normal;
+}
+
+.summary {
+  font-style: normal;
+}
+
+.role-summary {
+  font-style: normal;
+  margin-bottom: 0.1em;
+}
+ul {
+margin-bottom: 0.0em;
+}
+
+.role {
+  margin-top: 0.1em;
+  font-weight: bold;
   font-style: italic;
 }
+
 
 h1 {
   font-size: 2.0em;
