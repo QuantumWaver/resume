@@ -4,6 +4,12 @@
   border-bottom: 1px solid #ccc;
 }
 
+.experience-section-header {
+  margin: 10px 0 5px;
+  text-transform: uppercase;
+  border-bottom: 1px solid #ccc;
+}
+
 .section-details .title {
   font-weight: bold;
 }
@@ -14,6 +20,11 @@
 }
 
 .company-years {
+  text-align: right;
+  font-size: 1.1em;
+}
+
+.school-years {
   text-align: right;
   font-size: 1.1em;
 }
